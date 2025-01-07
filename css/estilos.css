@@ -4,3 +4,8 @@ body
     text-align: left;
     font-family: "Arial";
 }
+
+#cabecera h7 
+{
+    color: red;
+}
