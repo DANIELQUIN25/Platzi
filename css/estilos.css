@@ -6,7 +6,22 @@ body
     font-size: 2rem;
 }
 
-#cabecera h7 
+#cabecera
 {
+    display: flex;
+    align-items: center;
     color: red;
+    background-color: darkblue;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+}
+#cabecera h4
+{
+    color: blanchedalmond;
+    background-color: darkblue;
+    padding-left: 30px;
+}
+
+#cabecera img {
+    width: 50px;
 }
