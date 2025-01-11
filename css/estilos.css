@@ -1,10 +1,11 @@
 body 
 {
-    color:#672828;
+    
     text-align: left;
     font-family: "Arial";
     font-size: 2rem;
 }
+
 
 #cabecera
 {
@@ -24,4 +25,21 @@ body
 
 #cabecera img {
     width: 50px;
+}
+
+#footer h2
+{
+    color:darkblue;
+}
+
+
+#footer img
+{
+    width: 500px;
+    border: 2px;
+    border-radius: 2px;
+    border-style: dashed;
+    border-color: red;
+    
+    
 }
