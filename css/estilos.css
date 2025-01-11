@@ -10,10 +10,10 @@ body
 {
     display: flex;
     align-items: center;
-    color: red;
+    
     background-color: darkblue;
     text-align: center;
-    padding: 10px 10px 10px 10px;
+    
 }
 #cabecera h4
 {
